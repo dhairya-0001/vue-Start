@@ -6,7 +6,7 @@
           <img src="@/assets/pulkit.png" alt="" />
         </div>
         <div id="name">
-          <h3>Dhairya Gupta</h3>
+          <h3>Dhairya Saxena</h3>
         </div>
         <div id="subtitle">
           <h4>UX/UI DEVELOPER | CREATIVE DESIGNER | MSFT GEEK</h4>
